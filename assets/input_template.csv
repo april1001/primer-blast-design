@@ -1,0 +1,4 @@
+gene,gene_accession,organism,product_min,product_max,tm_min,tm_opt,tm_max
+TP53,NM_000546.6,Homo sapiens,,,,,
+GAPDH,NM_002046.7,,,,58,60,62
+ACTB,NM_001101.5,,80,150,,,
